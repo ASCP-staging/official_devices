@@ -41,6 +41,20 @@
           "deprecated": false
         }
       ]
+    },
+    {
+      "name": "POCO F7 /Redmi Turbo 4 Pro",
+      "codename": "onyx",
+      "maintainer": "SharmagRit",
+      "github": "https://github.com/SharmagRit",
+      "telegram": "https://t.me/SharmagRit",
+      "supported_versions": [
+        {
+          "version_code": "6.0",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
     }
   ]
 }
