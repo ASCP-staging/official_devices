@@ -1,0 +1,18 @@
+[
+  {
+    "datetime": 1782259200,
+    "files": [
+      {
+        "filename": "ASCP-v6.0-peridot-OFFICIAL-20260624-0000.zip",
+        "os_patch_level": "2026-06-01",
+        "os_sdk_level": 36,
+        "sha256": "60e9e2e8db3dc5a4205ce4e14a5af3cb8bc86f09ff0a18b04e41212f4c3bc383",
+        "size": 4043014272,
+        "url": "https://sourceforge.net/projects/project-ascp/files/peridot/6.0/ASCP-v6.0-peridot-OFFICIAL-20260624-0000.zip/download"
+      }
+    ],
+    "version": "20260624",
+    "status": "OFFICIAL",
+    "device": "peridot"
+  }
+]

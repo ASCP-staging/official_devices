@@ -1,0 +1,18 @@
+[
+  {
+    "datetime": 1782259200,
+    "files": [
+      {
+        "filename": "ASCP-v6.0-marble-OFFICIAL-20260624-0000.zip",
+        "os_patch_level": "2026-06-01",
+        "os_sdk_level": 36,
+        "sha256": "4f13294b7a07193a82699103bf6b4ecd72e65634fc8ab96e8c20c99433f132d9",
+        "size": 3575217103,
+        "url": "https://sourceforge.net/projects/project-ascp/files/marble/6.0/ASCP-v6.0-marble-OFFICIAL-20260624-0000.zip/download"
+      }
+    ],
+    "version": "20260624",
+    "status": "OFFICIAL",
+    "device": "marble"
+  }
+]

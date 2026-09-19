@@ -1,24 +1,10 @@
 {
-  "response": [
-    {
-      "maintainer": "Ashwani",
-      "currently_maintained": true,
-      "oem": "Xiaomi",
-      "device": "Poco F5 / Redmi Note 12 Turbo",
-      "filename": "ASCP-v6.0-marble-OFFICIAL-20260624-0000.zip",
-      "download": "https://sourceforge.net/projects/project-ascp/files/marble/6.0/ASCP-v6.0-marble-OFFICIAL-20260624-0000.zip/download",
-      "timestamp": 1782259200,
-      "md5": "d8a1067267587f3d29ccfbe5cc26457f",
-      "sha256": "4f13294b7a07193a82699103bf6b4ecd72e65634fc8ab96e8c20c99433f132d9",
-      "size": 3575217103,
-      "version": "6.0",
-      "buildtype": "userdebug",
-      "forum": "https://t.me/being_ashwani",
-      "firmware": "",
-      "paypal": "",
-      "github": "https://github.com/beingashwani",
-      "initial_installation_images": [],
-      "extra_images": []
-    }
-  ]
+  "maintainer": "Ashwani",
+  "status": "OFFICIAL",
+  "oem": "Xiaomi",
+  "device": "Poco F5 / Redmi Note 12 Turbo",
+  "codename": "marble",
+  "github": "https://github.com/beingashwani",
+  "telegram": "https://t.me/being_ashwani",
+  "donation_link": "https://telegra.ph/Donation-Links-09-16"
 }
