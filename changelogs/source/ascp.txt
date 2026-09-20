@@ -1,0 +1,6 @@
+=== ASCP OS v6.0 ===
+- Android 17 (A17) initial release
+- Updated system security patch level
+- Upstream core system and platform performance improvements
+- ASCP UI enhancements and system stability optimizations
+- Initial official build release
